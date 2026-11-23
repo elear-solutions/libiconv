@@ -1,0 +1,7 @@
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_0,
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_2,
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_4,
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_6,
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_7,
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_9,
+  (int)(size_t)&((struct stringpool2_t *)0)->stringpool_extra_11,
